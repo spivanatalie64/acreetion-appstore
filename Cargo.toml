@@ -1,0 +1,11 @@
+[package]
+name = "acreetion_appstore"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gtk4 = { version = "0.9", features = ["v4_10"] }
+glib = "0.20"
+pango = "0.20"
+futures = "0.3"
+async-std = { version = "1.12", features = ["attributes"] }

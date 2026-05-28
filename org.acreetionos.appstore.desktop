@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=AcreetionOS AppStore
+Comment=Install and manage software packages
+Exec=acreetion_appstore
+Icon=org.acreetionos.appstore
+Categories=System;PackageManager;GTK;
+Terminal=false
